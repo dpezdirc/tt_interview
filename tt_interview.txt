@@ -1,0 +1,874 @@
+﻿0:25
+D: You have a rich and impressive history as a video game composer, with your first credited title dating back to 1988, that's 37 years ago.
+
+
+0:55
+D: How do you feel when you hear those numbers?
+
+
+T: The way I feel about making music has not changed since then.
+
+
+1:35
+D: Since then you've worked on more than 40 games, so we have a lot of topics to cover with this interview.
+
+
+T: (laughs) OK!
+
+
+1:50
+D: Let’s start at the beginning: how did your relationship with music first develop, and how did that lead to you starting your journey as a musician?
+
+
+T: My father had a big record collection, and there would always be music playing in the house. As such, I was exposed to music from a young age, including pieces such as Beethoven’s symphonies.
+
+
+That’s not to say I was only exposed to orchestral music though. My father would play records of music from all over the world, including genres such as Chanson. Essentially, I was listening to all kinds of music since infancy. 
+
+
+4:05
+J: …
+
+
+D: Can you give us some specific examples of music playing in the house that caught your attention?
+
+
+T: 
+When I was around 1 year old I was mostly exposed to world music. That includes all kinds of genres such as Greek folk music, French pop songs, German music including Beethoven, jazz, and so on. The first piece for piano that left a lasting impression on me was Tchaikovsky’s piano concerto. The first time I heard it, I was moved, and thought that one day I wanted to play that piece myself. (Laughs)
+
+
+Looking back, that’s probably the first time I thought that I wanted to do music. That motivation led me to practice piano harder and harder.
+
+
+5:10
+D: Can you think of a song that captivated you and made you think "I want to make music like this"?
+
+
+Note: some back and forth before coming back to Piano concerto no. 1, not sure how much is relevant/interesting
+
+
+T continues: 
+
+
+When I was in school, I was playing many different genres of music and was often invited to join bands. As a result, I ended up playing all a variety of genres of music, not just classical. 
+
+
+On the classical side of things though, I used to practice the greats like Chaikovsky, Rachmaninoff, Beethoven, and more with 2 pianos - one for the orchestral part, and one for the solo part. 
+
+
+7:26
+J: …
+
+
+7:54
+When you played piano concerto no. 1, was it by sheet music or by ear?
+
+
+T:
+With score, as it was very academic. When composing music for video games, all of the technicalities I base on classical music. 
+
+
+For example, even with music for Pokemon, I keep it polyphonic so there is a bass part, middle part, upper parts, and so on. The techniques composers such as Bach used in their works are all things I keep in mind when composing. 
+
+
+8:32
+J: …
+
+
+9:50
+D: Can you identify what about piano concerto no. 1 resonated with you so much?
+
+
+T: I think everything to be honest.
+On top of that, you know how impressionable kids are. Everything about it has me going “wow!”
+
+
+****
+10:58
+Can you explain the feelings you got listening to it? (question may need re-phrasing based on the response)
+
+
+T: 
+Of course, that’s right. I get similar feelings listening to music regardless of genre. 
+
+
+For example *yodels* even yodelling! *all laugh*
+
+
+Composing music is something I enjoy even now, but currently the thing I enjoy the most is jamming out with other musicians. 
+
+
+12:13
+D: When did you start writing music? Do you remember some of the earliest pieces you composed?
+
+
+T: 
+I started writing music I believe when I was around 4 years old. I only started properly writing down my compositions when I was in middle school. 
+
+
+The first piece that I remember arranging is the national anthem of the United States. I arranged it for brass and piano when I was around 12. 
+
+
+*All hum the national anthem*
+*Laughs*
+
+
+13:45
+D: So you enjoyed arranging others’ music, but also composing your own. What drew you beyond arranging pieces written by others, to composing your own music?
+
+
+T: 
+As for what drew me to composing my own music - I mentioned that I was playing music by great classical composers. However, somewhere down the line I felt as if something was missing. After much contemplation, I came to the conclusion that the only way to fill in that missing part was to compose the music myself. 
+
+
+15:03
+D: Can you pinpoint what was missing to you from existing works, or was it rather that you imagined a specific sound in your head that you wanted to hear?
+
+
+T: 
+It’s more about wanting to perform the music in a certain manner. Say there’s a Bach piece - I often found myself wanting to perform it in a different manner than the original. I felt something similar with a certain Rachmaninioff piece. Aside from one part in particular, the rest was not really all that interesting.
+
+
+So I thought to myself - if that’s the case, why not take things into my own hands. 
+
+
+I performed the music of many composers up until that point, but found that I had the most fun when I was playing music I composed myself.
+
+
+16:32
+D: When did you decide that you wanted to make a career out of composing music? 
+
+
+D: Before we go there maybe we can back up one step and talk about your musical education.
+
+
+T: 
+Well, I had been studying music by myself from when I was a kid. To be honest, I wanted to go to Moscow for high school. However, the situation wasn’t exactly ideal at the time, so I ended up staying in Japan.
+
+
+As for how I got into composing music for video games, this was at a time where the personal computer was starting to become more widespread. I heard that it was possible to compose music on the PC, but had no experience with it so I had to learn how to use it from scratch. 
+
+
+J: 
+Can you explain what you mean by the situation not exactly having been “ideal”?
+
+
+T: 
+Socially, things were a bit unstable at the time…
+
+
+J: 
+I see. By the way, where did you learn how to use the computer?
+
+
+T: 
+At my part time job during college, I noticed that there were more and more computers being introduced to the scene. Due to the fact that both computers and music are logical by nature, I felt that they would be quite compatible with each other. 
+
+
+That led to me having a eureka! moment, and I began learning how to use the various chips needed to compose music. 
+
+
+20:12
+D: How did you get started with composing for video games? What was the first game you composed for and how did you get the gig?
+
+
+T: 
+So in Japan there’s this magazine with listings for job offerings. Have you heard of it? You see it often in supermarkets and other stores.
+
+
+In that magazine, I saw a job offering looking for someone that could compose music for video games. I spent the next three days composing a few demos tracks and submitted them to the company. They must have liked it, since they told me to go directly to their company the following day. 
+
+
+21:45
+D: Do you remember what the company was?
+
+
+T: Yes - It was Jareco. 
+
+
+21:53
+D: Is that company still around today?
+
+
+T: It was actually bought out by another company. Their brand itself is still around though, to my knowledge. 
+
+
+22:17
+D: How old were you at this time?
+
+
+T: I was around 21.
+
+
+22:30
+D: Do you remember what kind of gear you used to make the demo tape and what medium you recorded onto?
+
+
+T: 
+Hmm…
+I had a Roland sampler and a Yamaha DX7. In addition, I had a tape multi tracker, and used those to make the demo tracks. I included some of my own vocal recordings, and brought that to the company. 
+
+
+Oh, as for that tape multi tracker, I believe it was an AKAI.
+
+
+24:14
+Tsukasa continues about starting on the job…
+T: 
+One of the first projects I remember working on was for the NES. There were no other composers at the company at the time, and the computer was not the best - it would overheat during the summer and not be usable at all. 
+
+
+After being handed that at the company, I was told to “please make the music”. You can imagine the look on my face.
+
+
+I had no idea what was going on, and was constantly asking the programmer “what is this?” “what is that?”. And just like that, I went about learning the ropes, little by little.
+
+
+25:44
+D: What was the first project that you were assigned to work on at your new job?
+
+
+T: Druid for the NES.
+
+
+After the release of the game, the music was well received, and I ended up receiving more and more work.
+
+
+27:10
+D: What was your experience like composing on that first project? Did you run into any challenges in the process?
+
+
+T: 
+It was anything but easy using the tech at the company.
+
+
+The composing of the music itself however was not an issue. 
+
+
+I fondly remember how everyone would go “woah!” and “oh!” when I’d make a sound on the computer. 
+
+
+To this day, I have not really had specific instructions as for how to write music for the games I work on, but rather have been given creative freedom. In general, without any redos. 
+
+
+29:07
+D: Can you walk us through the process of composing and implementing a piece of music into a game made for the Famicom?
+
+
+T: 
+Sure. The first step is to have a final image in mind of the music I will be composing. This includes considering the limitations in number of audio channels available for the system you’re composing for. 
+
+
+It is of utmost importance to have that image in your head at the start of the project. Once that’s in mind you can get down to programming MIDI. 
+
+
+In my case, I do everything from start to finish, including the implementation itself. 
+
+
+30:33
+J: 
+Who taught you how to do that?
+
+
+T: 
+There was nobody at my company that knew how to do that, so I went about picking it up little by little. 
+
+
+32:06
+D: Did you have to learn how to program to implement the music into the game?
+
+
+T: 
+I learned some programming to be able to communicated with the programmer and sound team. I ended up learning quite a bit.
+
+
+33:05
+D: In the early days you had to deal with strict hardware limitations. Do you remember how many audio tracks you had at your disposal on the Famicom?
+
+
+T: 
+There were 4 on the NES, and 8 on the SNES.
+
+
+33:28
+D: How did this limitation impact your compositions? Did you have to adapt what you had in your mind to work with 4 (or 8) tracks?
+
+
+T: 
+I would have to have my final image for the track made with those limitations in mind.
+
+
+You know how in classical music you have string quartets? When writing for the NES, I would compose in a similar manner, having tracks 1, 2, 3, and 4 in mind akin to a quartet. 
+
+
+I would also think about what a piece like that would sound like were we not limited by the technology at the time. That includes imagining what it would sound like when arranged for full orchestra.
+
+
+34:36
+J: That makes sense. So if a piece for the NES is akin to a string quartet, how would you describe your way of thinking about a piece for the SNES?
+
+
+T: 
+Nice catch. When it came to the SNES, I would imagine it not as a quartet, but rather as a piece for 8 different orchestral parts. 
+
+
+35:25
+D: Over time, hardware limitations gradually became less restrictive; nowadays there’s almost no restrictions limiting the quality of audio in games. How has this softening of limitations over the years affected your workflow?
+
+
+T: 
+I feel like things have become less interesting with the lack of limitations. 
+There were fun things that could be done with a limit of 4 tracks, just as there were fun things that could be done with a limitation of 8. Without that though, I feel as if things have changed. 
+
+
+Y: (brother)
+Do you think that change was caused once you became able to use sampling?
+
+
+40:06
+T: 
+Well, with the arise of the GameCube and the Wii, there were suddenly so many more possibilities in the world of game music. You could even throw in a whole orchestral if you wanted to. 
+
+
+As a result though, the need for a specific skillset for composing for games was lost. This is where I feel things became less interesting. 
+
+
+As of late, I’ve been finding composing and performing music with other musicians more and more interesting. 
+
+
+40:38
+J: …
+
+
+T: 
+Think back to earlier, when we were up in the studio. Do you remember how I had to shuffle through various presets on the synthesizer to find patches that might work? It’s almost counterintuitive in a way, but the lack of limitations and endless sound possibilities can lead to wasting time trying to find the quote on quote perfect sound. With a limitation such as only being able to use a specific sound in play, we would have been able to get to recording right away. 
+
+
+If you have that kind of time, I would much rather spend it playing with everyone. 
+
+
+42:40
+D: What was the popular music scene like when you started composing professionally, and did it influence your compositions at all?
+
+
+T: 
+There were a lot of populars European, American, and Japanese pop music at the time. They were all quite different sonically however.
+
+
+Do you know Bon Jovi? I really like his music. 
+
+
+*all sing Bon Jovi*
+
+
+I’m quite a bit older than you two though. I’m 60 so I must have at least 20, 30ish years on you guys? 
+
+
+That’s one of the great things about music - you can make friends with people regardgless of age. 
+
+
+45:15
+D: Did the popular music at the time have an influence on your compositions at all?
+
+
+T: 
+Not really. I have always a had a specific kind of music that I wanted to make in mind. However, one things that might have been influenced by the music around me was my ideal snare drum  sound. However, I wasn’t really listening to that much music then, and was more focused on composing my own.                
+
+
+46:28
+D: Before you worked on pokemon (we'll get to that later): what were some key games that marked a big step up in your development as a composer, and what was it about those games that leveled up your skills?
+
+
+T: 
+Let’s look into those. I feel like every 10 years in my career, there has been a big project that has marked my step up as a composer. 
+
+
+The first of such projects was composing for arcade games early on in my career. I was limited to 8 FM audio tracks. I composed for 3 different games like that, and even released a CD. That marks the first big step up in my career as a composer. 
+
+
+The next step after that, would have to be this - 
+
+
+*passes Ihatovo Monogatari CDs*
+
+
+I have signed them for you.
+
+
+48:55
+T: 
+This one goes back around 35 years now, on the SNES. The music was really well received, and I was even noticed by the late Dragon Quest composer, the great Koichi Sugiyama. Sugiyama invited me to work together with him as a composer. That, without a doubt, marked the second big step. 
+
+
+After that, during my time working together alongside Sugiyama, we received an offer to create a new company to make work on a different kind of Pokemon game. Together with skilled members from the cast developing Dragon Quest, we took up this offer, and made a new company. While working as an executive on the board, I was in charge of the music, and we made Pokemon Colosseum and XD. 
+
+
+That marked the next big step up in my career. Let’s leave this story here for now though.
+
+
+51:20
+D: What do you think it was about the soundtrack to Ihatovo Monogatari that caught the attention of the Dragon Quest composer (Koichi Sugiyama?)?
+
+
+T: 
+I’d say it’d have to be the sound. I built up all of those sounds from scratch. That, and the compositional choices perhaps. It seems that the acoustic instrumental style was quite well received, and that Koichi Sugiyama reached out to me to compose orchestral music together as a result.           
+
+
+52:26
+D: Did you receive mentoring during your career? If so, is there someone who stands out to you?
+
+
+T: 
+I did not receive any mentoring during my career. I was quite lucky to have been trusted by my colleagues and coworkers, and have been allowed to compose freely for the entirety of my career.
+
+
+53:40
+D: Let’s switch gears to Pokemon: Genius Sonority was founded to develop Pokemon Colosseum as their first project - can you explain the background behind the studio's formation and how a relatively small team of developers got the opportunity to work on such a popular franchise?
+
+
+T: えーっと、まず、ドラゴンクエスト「作っていて、で、その時に任天堂、あとポケモンカンパニー新しい会社を作らない？て聞かれて
+
+
+僕電話かかって、ドラゴンクエストできませんって断って、で新しい会社のスターティングメンバーは5人。で、それは今まで仕事してきた人を集めて、で後は募集をかけて、で最終的には多分80人にはなったかな。
+
+
+たくさんの人が来てくれて、それでポケモンコロシアムを作ることができました。
+
+
+This goes back to when I was working on Dragon Quest. Nintendo and The Pokemon Company reached out asking if we’d be interested in making a new company. 
+
+
+Interested in their offer, I took them up on it and started off with 4 colleagues I had worked together with. After recruiting, we ended up with a team of around 80 or so, and development on Pokemon Colosseum finally began.
+
+
+56:38
+D: What was the catalyst that sparked the formation of Genius Sonority?
+
+
+T: ポケモンが新しいゲーム、ポケモンのニュータイプを作りたいってなって。で、ドラゴンクエストのチームはすごい技術力あったので、半分出資して、会社を作った。それがきっかけになった。
+
+
+The team at Pokemon was interested in making a new kind of Pokemon game, and they respected the skills of the team at Dragon Quest. Both Pokemon and our side put down half of the initial capital each and formed Genius Sonority.
+
+
+57:45
+D: So it was a direction from the Pokemon Company to make a new team?
+
+
+T: そうですね。作ってみない？て話になって。どうしようどうしよう？？てなったけど、最終的にはやることになって。
+
+
+Yes. I was unsure at first whether to go through with it, but in the end, we did.
+
+
+58:20
+J: So you were a bit hesitant?
+
+
+T: Yes, as until then I had been working at Dragon Quest.
+
+
+J: 
+That makes sense. Dragon Quest has been loved in Japan for a long time. While it is popular in the US now, it was not something I knew about growing up as a gamer. Pokemon, however, had been quite popular around the world at that time. 
+
+
+T: 
+That’s correct. Dragon Quest is super popular in Japan - almost like a national game. That’s why I was initially unsure about what to do. 
+
+
+Pokemon, on the other hand, has always been more global. 
+
+
+59:28
+D: How familiar were you with the Pokemon series of games at the time?
+
+
+T: 
+I knew the names of some of the popular characters, but admittedly was not super familiar with it at the time.
+
+
+1:00:02
+D: Were you familiar at all with the music from the main series games?
+
+
+T:
+I had listened to samples of music from the main line games. However, the game that we were working on was inspired by Arizone, so I knew that the music I would compose would have to be in a completely different direction.
+
+
+1:01:12
+D: Pokemon Colosseum is very different from the rest of the mainline games, most notably because of its darker tone. Where did the decision to give the game a darker tone come from?
+
+
+T: 
+The team behind planning wanted to go for a game with a cooler kind of vibe to it. Something like
+
+
+*begins snapping fingers to the tune of Pyrite Town*
+
+
+That’s why the music ended up like this - with a bit more of a mature feeling to it. It’s all part of the world building.
+
+
+1:02:50
+D: What kind of direction were you given specifically for the music; how did you take that direction and turn it into musical ideas?
+
+
+T: 
+As I mentioned before, I’ve been given a lot of creative freedom throughout my career as a composer. I was afraid I might have taken things a little too far while working on the demos for this one though.
+
+
+J: What were you worried about?
+
+
+T: For one, the tone of pieces like The Under. I was afraid I might have made it a bit too dark. 
+
+
+But after having the team listen to some of the tracks that I was working on and hearing their feedback, I knew it would be ok.
+
+
+1:04:25
+D: What kind of material were you working with when it came to composing the music (e.g. concept art, videos, notes, etc.)?
+
+
+T: ほとんどはミーティングの席で、話で「こんな感じ」例えば「アリゾナの乾いた砂って感じがいいよね」とか。で、話してるうちにイメージが湧いて。だから後になってイラストが出てきて「合った！」てなった笑
+
+
+This is one of the things that we discussed at meetings. Even before the art was ready, the team would give ideas like “dry sand in Arizona”, and other abstract ideas. After seeing the illustration finished and paired with my music, I was relieved to see that it fit the bill (laughs)
+
+
+1:05:53
+D: Do you remember what the first song you composed for Pokemon Colosseum was?
+
+
+T: 
+Hmm…
+What was it again
+
+
+*Humming*
+
+
+Harmonica?
+
+
+*humming continues*
+
+
+Yeah it was definitely this harmonica piece.
+
+
+1:06:52
+D: One of the unique features of Colosseum's soundtrack is its use of motifs; in many tracks you can hear common little melodies that are shared across other tracks in one way or another, and that concept ties the whole soundtrack together. How did you come up with the idea of incorporating motifs into the soundtrack? Was it a conscious decision or something that naturally arose as you wrote more songs?
+
+
+T: 
+The idea of leitmotifs is something I learned about through classical music. For example, Bach is known for using themes and ideas in multiple parts throughout his music. That’s a common technique used in classical music, and I decided to use it to give the soundtrack a sense of unity. 
+
+
+1:08:53
+J: Wow. That’s something that previous Pokemon games did not incorporate, so I found it impactful the first time I played Colosseum. 
+
+
+T: In the case that multiple composers are working on soundtracks for different games, it’s not exactly something plausible. However, since it was just me working on the soundtrack, implementing it was no problem.
+
+
+1:09:32
+D: Let’s say you’re starting the process of writing a piece of music for a new area in the game, and you want to incorporate a motif into it. Do you start with the motif and build the song around it, or do you start with a separate idea and incorporate the motif into it?
+
+
+T: It depends. 
+I can compose a piece either way.
+
+
+1:10:38
+D: Pokemon Colosseum's soundtrack includes a few songs from previous Pokemon games (e.g. Pokemon Center, and a battle theme from RSE). What was your experience like arranging these tracks? Did you collaborate at all with the sound team from Game Freak?
+
+
+T: 
+It was important to make sure that they fit in with the world of Colosseum. Game Freak shared the sheet music with me, and I used that as a base for my arrangements in the style of Colosseums. 
+
+
+1:11:45
+J: What was it like arranging (previously existing) Pokemon music?
+
+
+T: 
+I arranged them in a simple style, as there was already a mold to fill. In that sense, I did not take too much freedom with the arrangements. 
+
+
+1:13:03
+D: Where did the direction to use songs from RSE come from? The Pokemon Company or Genius Sonority?
+
+
+T: 
+That’s a good question. 
+Take something like level up jingle, or the pokemon center theme - those are essentially symbols of Pokemon games, are they not?
+
+
+I think it was our planner that decided to do so. By including those familiar jingles and sounds, people from all over the world would feel a sense of connectedness to that of Pokemon.
+
+
+J: Tell me about the arrangement of the Ruby Sapphire battle theme. 
+
+
+T: 
+Since the Ruby and Sapphire included connectivity to the GameCube and Colosseum, we decided to do an arrangement of the Ruby and Sapphire battle themes.
+
+
+1:15:43
+D: Did you experience any push-back on any of your musical ideas? Did any tracks end up getting re-worked or shelved?
+
+
+T: Not at all. Never.
+
+
+1:16:44
+J: I got the feeling you’d say that (laughs) 
+
+
+T: 
+Of course there are arrangements that I go back an brush up. However, it’s never really more than a touch up here and there. For the most part, my first presentations are generally well received.
+
+
+1:17:10
+D: What was the most challenging part of producing the soundtrack to Pokemon Colosseum? What step took the most time?
+
+
+T: 
+Everything was equally challenging.
+
+
+The hardest part for sure was having to decide on the salaries for our employees (laughs)
+
+
+1:18:13
+J: What did you make that decision based on?
+
+
+T: 
+Salaries were mostly based on things like experience.
+It was really hard to decide, so I’m glad things turned out ok in the end. 
+
+
+There were three executive officers in the company - myself included. On top of that, there was the CEO, and the four of us comprised the executive tier. There was also the director, graphic design head, and so on - we comprised the organization. 
+
+
+Both the executive side of things and the composing side demanded my time, and there was always blood in my eyes from how busy I was (joking)
+
+
+1:20:09
+D: Overall, what was the development of Pokemon Colosseum like? Did the team run into any major challenges in the development cycle?
+
+
+T: 
+As the team was filled with veterans in the field, I had no doubt that the game would turn out in high quality. 
+
+
+Around a week before the deadline, the guitar tracks ended up glitching out, so naturally I panicked a bit. 
+
+
+I came to the conclusion that there must have been a memory leak somewhere in the game, so I had the programming team look into it. Upon closer inspection, they were able to discover the memory leak and fix it in three days.
+
+
+1:22:40
+D: So was all the music that we hear in the game being mixed down and rendered in real-time by the Game Cube?
+
+
+T: That’s correct. I performed it all on my keyboard using samples. 
+
+
+1:24:04
+D: Can you share with us some of the hardware and software that was used in creating the soundtrack to Pokemon Colosseum?
+
+
+T: No, I can’t.
+
+
+However, I can say that I prefer your guitar sound over that of the samples, Daniel.
+
+
+The gear I used on the Colosseum and XD soundtracks is confidential. It’s all relatively older music gear.
+
+
+1:24:50
+D: Were the musical instructions written in MIDI or some other format? How much was programmed in and how much was performed by you?
+
+
+T: That’s right, standard midi file -  SMF. 
+
+
+Some parts, including the dissonant bits in The Under, I played myself.
+
+
+1:25:57
+D: Some of your compositions contain snippets of music that sound like they were performed live rather than sampled (e.g. the guitar for the intro to Wild Pokemon Battle from Pokemon XD). Is that correct or were those parts just cleverly programmed?
+
+
+T:
+That bit is a sample I looped. 
+
+
+D: And I guess the source of that sound is confidential?
+
+
+T: Yes *laughs*
+
+
+1:27:08
+D: You've taken the opportunity to re-arrange/re-record some of your older work: most recently for Ihatovo Monogatari’s 30th anniversary, the soundtrack was arranged for, and performed by a live orchestra. What was it like re-visiting these pieces after so many years?
+
+
+T: 
+Even 35 years ago, I had the final versions of the tracks in mind. It might have taken 30 years, but I was finally able to complete them. During that time, I was busy composing for other projects, but I knew that I had to do something for the Ihatovo fans for the 30th anniversary. This year, I completed the orchestral versions and released a CD. 
+
+
+1:29:10
+J: It must have felt great being able to bring to life the finished versions you had in mind 35 years ago. 
+
+
+T: Yes! It feels as is a weight has been lifted off of my shoulders. 
+
+
+Actually, I want to do something similar with music from Pokemon Colosseum, XD, and Batte Revolution. While I’m not sure how long it will take, it’s something that I want to do. 
+
+
+You can get a pretty good idea of what direction I want to take the tracks in just from listening to the soundtrack, and I want to take them to the next level.
+
+
+1:30:36
+D: Was the live orchestra version for Ihatovo Monogatari closer to what you had in your mind when you originally composed the tracks compared to how they sound in the game?
+
+
+T: Yep. NES, SNES, they both have what I consider their “finished” version of the music. However, the orchestral version is what I consider the “complete” version when viewing it from a musical standpoint.          
+
+
+I felt the same way about recording with you Daniel, and Jonathan today in the studio.
+
+
+1:32:10
+D: Reflecting back on your career, can you name a game or two that you most enjoyed composing for?
+
+
+T: Pokemon Colosseum and the games I worked on at Genius Sonority.
+
+
+I’m enjoying working ont he music for a Pokemon mobile game right now. The musical style is completely different, but that’s part of the fun.
+
+
+D: I feel the same - there’s something about the music from Pokemon Colosseum/XD that strikes a chord like no other game quite does.
+
+
+＊＊＊＊＊
+Note: the conversation shifted to a more personal note here, this section should probably be condensed or omitted
+
+
+T: It’s such a pleasure seeing everyone’s renditions of my music, and I’m grateful to everyone that does. It makes me feel happy that I composed the music, and I want to perform together with such talented musicians. 
+
+
+J: It’s an honor being able to hear that from the composer himself.
+
+
+T: Of course. It’s fun and a good thing in my opinion. 
+
+
+J: It really brings back the memories. I was 18 when I first put up a cover of one of your songs on my YouTube channel 11 years ago. I was ecstatic to see you retweet my cover and even follow me back on Twitter.
+
+
+T: 
+I’m grateful that there are so many people performing my works. I felt something hearing your guitar, Daniel, and Jonathan’s bass, and knew I wanted to do something together.
+
+
+D: Thank you for taking the time to respond and interact with fans online.
+
+
+T: Of course. While other composers might not have as much freedom to do so, I’m thankful to have the ability to do as I please. 
+
+
+Note: the conversation shifted to a more personal note here, this section should probably be condensed or omitted
+＊＊＊＊＊
+
+
+1:37:28
+D: What kind of music are you listening to these days in your free time?
+
+
+T: I don’t really listen to music. I’m more focused on the composing aspect.
+
+
+1:37:57
+D: Why do you think that is? Is it a time thing - that your own music is perhaps using up all of your mental capacity for music?
+
+
+T: 
+There are always music ideas floating around in my head - even when going for a walk. I’d rather spend my time fleshing those out into full songs rather than listening to existing ones. 
+
+
+1:39:37
+D: Do you have any musical guilty pleasures?
+Note: let’s skip this one - it fell flat XD
+
+
+1:45:08
+D: Can you tell us anything about your future plans for music?
+
+
+T: That’s a secret.
+
+
+However, I have been collecting the old equipment that I used when working on the Pokemon Colosseum soundtrack, and have been using it to compose new battle themes. They are not for a game, however.
+
+
+I actually wanted to compose more battle themes for Colosseum, so this album is my way of scratching that itch. As it is the same equipment, the music will sound just like that of Pokemon Colosseum. 
+
+
+1:46:48
+D: How far along is the album right now?
+
+
+T: 
+It’s about half finished. 
+
+
+I’d like to include your guitar in there. 
+
+
+1:47:18
+D: Is using the same sounds from Pokemon Colosseum/XD a deliberate choice as opposed to producing it with more modern equipment?
+
+
+T: 
+As I’m the one in charge, regardless of the equipment I use, as well as regardless of whether parts are performed live or programmed, the tracks will easily be recognizable as mine.
+
+
+1:48:16
+D: That just goes to show how much Pokemon Colosseum/XD has solidified the “Tawada” sound and the association between you and those games.
+
+
+T: ダニエル、チェコに住んでるでしょう？
+実はこれのオープニングの曲、チェコのオーケストラすごく好きなので、でチェコに有名な川があって、で
+
+
+Daniel, you live in Czechia right?
+You know there’s this famous river there, and I really like their orchestra.
+
+
+それでチェコに作曲家がいて、
+チェコのオーケストラがすごく好きで
+チェコの民族的な、それがすごく頭の中にあって、オープニング曲に影響与えてる
+Ihatov
+…
+The opening theme from Ilhatovo was heavily influenced by the ethnic music of Czechia. 
+
+
+Note: side-track to personal stuff, let’s skip it
+
+
+1:52:15
+D: Final question: if you were to give some advice to aspiring composers today, what would it be?
+
+
+T: 
+The most important thing is to keep an open mind. 
+
+
+You know, as you get older and become adults, your day to day is filled with things that you need to do, and you slowly begin losing that freedom. It’s important not to fall in to that trap, and to keep your mind free.
