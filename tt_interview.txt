@@ -3,10 +3,11 @@ D: You have a rich and impressive history as a video game composer, with your fi
 
 
 0:55
-D: How do you feel when you hear those numbers?
+D: How do you feel when you reflect back on those years?
 
 
-T: The way I feel about making music has not changed since then.
+T: (Contemplates...) The way I feel about making music has not changed since then. 
+/* Note: this answer sounds more blunt in text than it did in person - is it possible to rephrase to add just a tad more nuance? Something like : "Although a lot of time has passed, nothing has really changed - the way I feel about making music is largely the same" */
 
 
 1:35
@@ -40,28 +41,8 @@ When I was around 1 year old I was mostly exposed to world music. That includes 
 Looking back, that’s probably the first time I thought that I wanted to do music. That motivation led me to practice piano harder and harder.
 
 
-5:10
-D: Can you think of a song that captivated you and made you think "I want to make music like this"?
-
-
-Note: some back and forth before coming back to Piano concerto no. 1, not sure how much is relevant/interesting
-
-
-T continues: 
-
-
-When I was in school, I was playing many different genres of music and was often invited to join bands. As a result, I ended up playing all a variety of genres of music, not just classical. 
-
-
-On the classical side of things though, I used to practice the greats like Chaikovsky, Rachmaninoff, Beethoven, and more with 2 pianos - one for the orchestral part, and one for the solo part. 
-
-
-7:26
-J: …
-
-
 7:54
-When you played piano concerto no. 1, was it by sheet music or by ear?
+You menitoned Tchaikovsky’s Piano Concerto - when you eventually learned to play it, was it by sheet music or by ear?
 
 
 T:
@@ -83,19 +64,16 @@ T: I think everything to be honest.
 On top of that, you know how impressionable kids are. Everything about it has me going “wow!”
 
 
-****
-10:58
-Can you explain the feelings you got listening to it? (question may need re-phrasing based on the response)
+I get similar feelings listening to any kind of music regardless of genre. 
 
 
-T: 
-Of course, that’s right. I get similar feelings listening to music regardless of genre. 
+For example *yodels* even yodelling - it's incredible!
 
 
-For example *yodels* even yodelling! *all laugh*
+*all laugh*
 
 
-Composing music is something I enjoy even now, but currently the thing I enjoy the most is jamming out with other musicians. 
+T: Composing music is something I enjoy even now, but currently the thing I enjoy the most is jamming out with other musicians. 
 
 
 12:13
@@ -136,36 +114,24 @@ I performed the music of many composers up until that point, but found that I ha
 
 
 16:32
-D: When did you decide that you wanted to make a career out of composing music? 
-
-
-D: Before we go there maybe we can back up one step and talk about your musical education.
+D: When did you decide that you wanted to make a career out of composing music? Did your musical education play a part in that step?
 
 
 T: 
-Well, I had been studying music by myself from when I was a kid. To be honest, I wanted to go to Moscow for high school. However, the situation wasn’t exactly ideal at the time, so I ended up staying in Japan.
+Well, I had been studying music by myself from when I was a kid. To be honest, I wanted to go to Moscow for high school. However, the situation wasn’t exactly ideal at the time [socially, politically], so I ended up staying in Japan.
 
 
 As for how I got into composing music for video games, this was at a time where the personal computer was starting to become more widespread. I heard that it was possible to compose music on the PC, but had no experience with it so I had to learn how to use it from scratch. 
 
-
 J: 
-Can you explain what you mean by the situation not exactly having been “ideal”?
-
-
-T: 
-Socially, things were a bit unstable at the time…
-
-
-J: 
-I see. By the way, where did you learn how to use the computer?
+Where did first you learn how to use computers?
 
 
 T: 
 At my part time job during college, I noticed that there were more and more computers being introduced to the scene. Due to the fact that both computers and music are logical by nature, I felt that they would be quite compatible with each other. 
 
 
-That led to me having a eureka! moment, and I began learning how to use the various chips needed to compose music. 
+That led to me having a "Eureka!" moment, and I began learning how to use the various chips needed to compose music. 
 
 
 20:12
@@ -173,7 +139,7 @@ D: How did you get started with composing for video games? What was the first ga
 
 
 T: 
-So in Japan there’s this magazine with listings for job offerings. Have you heard of it? You see it often in supermarkets and other stores.
+So in Japan there’s this magazine with listings for job offerings. Have you heard of it? /* note: did he mention the magazine name? */ You see it often in supermarkets and other stores.
 
 
 In that magazine, I saw a job offering looking for someone that could compose music for video games. I spent the next three days composing a few demos tracks and submitted them to the company. They must have liked it, since they told me to go directly to their company the following day. 
@@ -322,12 +288,12 @@ There were fun things that could be done with a limit of 4 tracks, just as there
 
 
 Y: (brother)
-Do you think that change was caused once you became able to use sampling?
+Do you think that change was caused in part by the introduction of sampling?
 
 
 40:06
 T: 
-Well, with the arise of the GameCube and the Wii, there were suddenly so many more possibilities in the world of game music. You could even throw in a whole orchestral if you wanted to. 
+Well, with the arrival of the GameCube and the Wii, there were suddenly so many more possibilities in the world of game music. You could even throw in a whole orchestra if you wanted to. 
 
 
 As a result though, the need for a specific skillset for composing for games was lost. This is where I feel things became less interesting. 
@@ -337,7 +303,7 @@ As of late, I’ve been finding composing and performing music with other musici
 
 
 40:38
-J: …
+J: … /* note: anything to add here? the back and forth makes me wonder if there's some more juice to be squeezed out of this section, more detail to add, etc. */
 
 
 T: 
@@ -348,17 +314,17 @@ If you have that kind of time, I would much rather spend it playing with everyon
 
 
 42:40
-D: What was the popular music scene like when you started composing professionally, and did it influence your compositions at all?
+D: What was the popular music scene like when you started composing professionally?
 
 
 T: 
-There were a lot of populars European, American, and Japanese pop music at the time. They were all quite different sonically however.
+There was a lot of popular European, American, and Japanese pop music at the time. They were all quite different sonically however.
 
 
 Do you know Bon Jovi? I really like his music. 
 
 
-*all sing Bon Jovi*
+*Jonathan breaks into "Living on a Prayer" - everyone joins in.*
 
 
 I’m quite a bit older than you two though. I’m 60 so I must have at least 20, 30ish years on you guys? 
@@ -372,7 +338,7 @@ D: Did the popular music at the time have an influence on your compositions at a
 
 
 T: 
-Not really. I have always a had a specific kind of music that I wanted to make in mind. However, one things that might have been influenced by the music around me was my ideal snare drum  sound. However, I wasn’t really listening to that much music then, and was more focused on composing my own.                
+Not really. I have always a had a specific kind of music that I wanted to make in mind. However, one things that might have been influenced by the music around me was my ideal snare drum sound. However, I wasn’t really listening to that much music then, and was more focused on composing my own.                
 
 
 46:28
@@ -393,6 +359,8 @@ The next step after that, would have to be this -
 
 
 I have signed them for you.
+
+(insert picture here)
 
 
 48:55
@@ -492,7 +460,7 @@ D: Were you familiar at all with the music from the main series games?
 
 
 T:
-I had listened to samples of music from the main line games. However, the game that we were working on was inspired by Arizone, so I knew that the music I would compose would have to be in a completely different direction.
+I had listened to samples of music from the main line games. However, the game that we were working on was inspired by Arizona, so I knew that the music I would compose would have to be in a completely different direction.
 
 
 1:01:12
@@ -551,7 +519,7 @@ What was it again
 Harmonica?
 
 
-*humming continues*
+*Hums melody to "Outskirt Stand"*
 
 
 Yeah it was definitely this harmonica piece.
@@ -578,6 +546,7 @@ D: Let’s say you’re starting the process of writing a piece of music for a n
 
 T: It depends. 
 I can compose a piece either way.
+/* note: answer was slightly longer - any more detail to add? */
 
 
 1:10:38
@@ -585,7 +554,7 @@ D: Pokemon Colosseum's soundtrack includes a few songs from previous Pokemon gam
 
 
 T: 
-It was important to make sure that they fit in with the world of Colosseum. Game Freak shared the sheet music with me, and I used that as a base for my arrangements in the style of Colosseums. 
+It was important to make sure that they fit in with the world of Colosseum. Game Freak shared the sheet music with me, and I used that as a base for my arrangements in the style of Colosseums (Orre?). 
 
 
 1:11:45
@@ -664,10 +633,10 @@ T:
 As the team was filled with veterans in the field, I had no doubt that the game would turn out in high quality. 
 
 
-Around a week before the deadline, the guitar tracks ended up glitching out, so naturally I panicked a bit. 
+There was one particular incident that stands out, however: around a week before the deadline, the guitar tracks ended up glitching out /* detail: how did he describe the glitching sound? did he mention that it got worse after multiple loops? */, so naturally I panicked a bit. 
 
 
-I came to the conclusion that there must have been a memory leak somewhere in the game, so I had the programming team look into it. Upon closer inspection, they were able to discover the memory leak and fix it in three days.
+I came to the conclusion that there must have been a memory leak somewhere in the game, so I had the programming team look into it. Upon closer inspection, they were able to discover the memory leak and fix it in three days /* detail: just mere days before the final release deadline */.
 
 
 1:22:40
@@ -677,19 +646,6 @@ D: So was all the music that we hear in the game being mixed down and rendered i
 T: That’s correct. I performed it all on my keyboard using samples. 
 
 
-1:24:04
-D: Can you share with us some of the hardware and software that was used in creating the soundtrack to Pokemon Colosseum?
-
-
-T: No, I can’t.
-
-
-However, I can say that I prefer your guitar sound over that of the samples, Daniel.
-
-
-The gear I used on the Colosseum and XD soundtracks is confidential. It’s all relatively older music gear.
-
-
 1:24:50
 D: Were the musical instructions written in MIDI or some other format? How much was programmed in and how much was performed by you?
 
@@ -697,21 +653,7 @@ D: Were the musical instructions written in MIDI or some other format? How much 
 T: That’s right, standard midi file -  SMF. 
 
 
-Some parts, including the dissonant bits in The Under, I played myself.
-
-
-1:25:57
-D: Some of your compositions contain snippets of music that sound like they were performed live rather than sampled (e.g. the guitar for the intro to Wild Pokemon Battle from Pokemon XD). Is that correct or were those parts just cleverly programmed?
-
-
-T:
-That bit is a sample I looped. 
-
-
-D: And I guess the source of that sound is confidential?
-
-
-T: Yes *laughs*
+Most of the parts were sequenced, but some parts, such as the dissonant bits in The Under, I played myself.
 
 
 1:27:08
@@ -752,40 +694,13 @@ D: Reflecting back on your career, can you name a game or two that you most enjo
 T: Pokemon Colosseum and the games I worked on at Genius Sonority.
 
 
-I’m enjoying working ont he music for a Pokemon mobile game right now. The musical style is completely different, but that’s part of the fun.
+I’m enjoying working on the music for a Pokemon mobile game right now. The musical style is completely different, but that’s part of the fun.
 
 
 D: I feel the same - there’s something about the music from Pokemon Colosseum/XD that strikes a chord like no other game quite does.
 
 
-＊＊＊＊＊
-Note: the conversation shifted to a more personal note here, this section should probably be condensed or omitted
-
-
 T: It’s such a pleasure seeing everyone’s renditions of my music, and I’m grateful to everyone that does. It makes me feel happy that I composed the music, and I want to perform together with such talented musicians. 
-
-
-J: It’s an honor being able to hear that from the composer himself.
-
-
-T: Of course. It’s fun and a good thing in my opinion. 
-
-
-J: It really brings back the memories. I was 18 when I first put up a cover of one of your songs on my YouTube channel 11 years ago. I was ecstatic to see you retweet my cover and even follow me back on Twitter.
-
-
-T: 
-I’m grateful that there are so many people performing my works. I felt something hearing your guitar, Daniel, and Jonathan’s bass, and knew I wanted to do something together.
-
-
-D: Thank you for taking the time to respond and interact with fans online.
-
-
-T: Of course. While other composers might not have as much freedom to do so, I’m thankful to have the ability to do as I please. 
-
-
-Note: the conversation shifted to a more personal note here, this section should probably be condensed or omitted
-＊＊＊＊＊
 
 
 1:37:28
@@ -803,11 +718,6 @@ T:
 There are always music ideas floating around in my head - even when going for a walk. I’d rather spend my time fleshing those out into full songs rather than listening to existing ones. 
 
 
-1:39:37
-D: Do you have any musical guilty pleasures?
-Note: let’s skip this one - it fell flat XD
-
-
 1:45:08
 D: Can you tell us anything about your future plans for music?
 
@@ -821,17 +731,6 @@ However, I have been collecting the old equipment that I used when working on th
 I actually wanted to compose more battle themes for Colosseum, so this album is my way of scratching that itch. As it is the same equipment, the music will sound just like that of Pokemon Colosseum. 
 
 
-1:46:48
-D: How far along is the album right now?
-
-
-T: 
-It’s about half finished. 
-
-
-I’d like to include your guitar in there. 
-
-
 1:47:18
 D: Is using the same sounds from Pokemon Colosseum/XD a deliberate choice as opposed to producing it with more modern equipment?
 
@@ -839,28 +738,11 @@ D: Is using the same sounds from Pokemon Colosseum/XD a deliberate choice as opp
 T: 
 As I’m the one in charge, regardless of the equipment I use, as well as regardless of whether parts are performed live or programmed, the tracks will easily be recognizable as mine.
 
+/* note: slightly confused about this one - it sounds like he's saying that no matter what gear he uses (or who performs it), it will always have the Tawada sound embedded into it. So did he choose to use the old gear to re-inforce the Tawada sound? More clarity on that would be nice. */
+
 
 1:48:16
 D: That just goes to show how much Pokemon Colosseum/XD has solidified the “Tawada” sound and the association between you and those games.
-
-
-T: ダニエル、チェコに住んでるでしょう？
-実はこれのオープニングの曲、チェコのオーケストラすごく好きなので、でチェコに有名な川があって、で
-
-
-Daniel, you live in Czechia right?
-You know there’s this famous river there, and I really like their orchestra.
-
-
-それでチェコに作曲家がいて、
-チェコのオーケストラがすごく好きで
-チェコの民族的な、それがすごく頭の中にあって、オープニング曲に影響与えてる
-Ihatov
-…
-The opening theme from Ilhatovo was heavily influenced by the ethnic music of Czechia. 
-
-
-Note: side-track to personal stuff, let’s skip it
 
 
 1:52:15
