@@ -633,14 +633,14 @@ T:
 As the team was filled with veterans in the field, I had no doubt that the game would turn out in high quality. 
 
 
-There was one particular incident that stands out, however: around a week before the deadline, the guitar tracks ended up glitching out /* detail: how did he describe the glitching sound? did he mention that it got worse after multiple loops? */, so naturally I panicked a bit. 
+There was one particular incident that stands out, however: around a week before the deadline, the guitar tracks ended up glitching out - it was getting worse over time, and the whole thing eventually sounded like a big mess, so naturally I panicked a bit.
 
 
-I came to the conclusion that there must have been a memory leak somewhere in the game, so I had the programming team look into it. Upon closer inspection, they were able to discover the memory leak and fix it in three days /* detail: just mere days before the final release deadline */.
+I came to the conclusion that there must have been a memory leak somewhere in the game, so I had the programming team look into it. Upon closer inspection, they were able to discover the memory leak and fix it in three days - just mere days before the final release deadline.
 
 
 1:22:40
-D: So was all the music that we hear in the game being mixed down and rendered in real-time by the Game Cube?
+D: Wow... So was all the music that we hear in the game being mixed down and rendered in real-time by the Game Cube?
 
 
 T: That’s correct. I performed it all on my keyboard using samples. 
@@ -732,13 +732,11 @@ I actually wanted to compose more battle themes for Colosseum, so this album is 
 
 
 1:47:18
-D: Is using the same sounds from Pokemon Colosseum/XD a deliberate choice as opposed to producing it with more modern equipment?
+D: Is using the same sounds from Pokemon Colosseum/XD a deliberate choice as opposed to producing it with more modern equipment, or with live musicians?
 
 
 T: 
-As I’m the one in charge, regardless of the equipment I use, as well as regardless of whether parts are performed live or programmed, the tracks will easily be recognizable as mine.
-
-/* note: slightly confused about this one - it sounds like he's saying that no matter what gear he uses (or who performs it), it will always have the Tawada sound embedded into it. So did he choose to use the old gear to re-inforce the Tawada sound? More clarity on that would be nice. */
+It was a deliberate choice, but to be honest, regardless of the equipment I use, as well as regardless of whether parts are performed live or programmed, it would undoubtedly still have the "Tawada" sound and be easily recognizable as mine.
 
 
 1:48:16
