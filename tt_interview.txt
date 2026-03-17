@@ -286,31 +286,22 @@ T:
 I feel like things have become less interesting with the lack of limitations. 
 There were fun things that could be done with a limit of 4 tracks, just as there were fun things that could be done with a limitation of 8. Without that though, I feel as if things have changed. 
 
-
-Y: (brother)
-Do you think that change was caused in part by the introduction of sampling?
-
-
-40:06
-T: 
-Well, with the arrival of the GameCube and the Wii, there were suddenly so many more possibilities in the world of game music. You could even throw in a whole orchestra if you wanted to. 
-
+For example, with the arrival of the GameCube and the Wii, there were suddenly so many more possibilities in the world of game music. You could even throw in a whole orchestra if you wanted to. 
 
 As a result though, the need for a specific skillset for composing for games was lost. This is where I feel things became less interesting. 
 
-
-As of late, I’ve been finding composing and performing music with other musicians more and more interesting. 
-
-
-40:38
-J: … /* note: anything to add here? the back and forth makes me wonder if there's some more juice to be squeezed out of this section, more detail to add, etc. */
-
-
-T: 
-Think back to earlier, when we were up in the studio. Do you remember how I had to shuffle through various presets on the synthesizer to find patches that might work? It’s almost counterintuitive in a way, but the lack of limitations and endless sound possibilities can lead to wasting time trying to find the quote on quote perfect sound. With a limitation such as only being able to use a specific sound in play, we would have been able to get to recording right away. 
-
+Speaking of limitations, think back to earlier, when we were up in the studio. Do you remember how I had to shuffle through various presets on the synthesizer to find patches that might work? It’s almost counterintuitive in a way, but the lack of limitations and endless sound possibilities can lead to wasting time trying to find the quote on quote perfect sound. With a limitation such as only being able to use a specific sound in play, we would have been able to get to recording right away. 
 
 If you have that kind of time, I would much rather spend it playing with everyone. 
+
+
+J:
+I can relate - scrolling through patches in Kontakt often feels like a waste of time. So to summarize, you view limitations as more of a positive factor than a negative one?
+/* note: feel free to re-phrase */
+
+
+T:
+Think of it this way: imagine an orchestral ensemble with only 8 members. With the limitation of 8 players in mind, you can work to create the best piece possible around those limitations. However, when there are unlimited possibilities, it’s possible to get lost and not know what to do.
 
 
 42:40
@@ -544,9 +535,7 @@ T: In the case that multiple composers are working on soundtracks for different 
 D: Let’s say you’re starting the process of writing a piece of music for a new area in the game, and you want to incorporate a motif into it. Do you start with the motif and build the song around it, or do you start with a separate idea and incorporate the motif into it?
 
 
-T: It depends. 
-I can compose a piece either way.
-/* note: answer was slightly longer - any more detail to add? */
+T: It depends on the context, but both are valid approaches - personally, I can compose a piece either way.
 
 
 1:10:38
