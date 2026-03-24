@@ -6,8 +6,7 @@ D: You have a rich and impressive history as a video game composer, with your fi
 D: How do you feel when you reflect back on those years?
 
 
-T: (Contemplates...) The way I feel about making music has not changed since then. 
-/* Note: this answer sounds more blunt in text than it did in person - is it possible to rephrase to add just a tad more nuance? Something like : "Although a lot of time has passed, nothing has really changed - the way I feel about making music is largely the same" */
+T: (Contemplates...) Although a lot of time has passed, as far as my mind goes nothing has really changed - the way I feel about making music is largely the same.
 
 
 1:35
@@ -139,7 +138,7 @@ D: How did you get started with composing for video games? What was the first ga
 
 
 T: 
-So in Japan there’s this magazine with listings for job offerings. Have you heard of it? /* note: did he mention the magazine name? */ You see it often in supermarkets and other stores.
+So in Japan there’s this magazine with listings for job offerings - you see it often in supermarkets and other stores.
 
 
 In that magazine, I saw a job offering looking for someone that could compose music for video games. I spent the next three days composing a few demos tracks and submitted them to the company. They must have liked it, since they told me to go directly to their company the following day. 
