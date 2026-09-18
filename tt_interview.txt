@@ -53,33 +53,20 @@ J: …
 9:50
 D: Can you identify what about piano concerto no. 1 resonated with you so much?
 
+T: The emotional depth and poignancy of the melodies in Tchaikovsky and Rachmaninoff’s music really struck a chord with me. It even made me want to study abroad in Moscow just to breathe the same air as them (laughs).
 
-T: I think everything to be honest.
-On top of that, you know how impressionable kids are. Everything about it has me going “wow!”
+What I realized after experiencing that music was that I didn’t just want to listen to it - I wanted to play it myself.
 
-
-I get similar feelings listening to any kind of music regardless of genre. 
-
-
-For example *yodels* even yodelling - it's incredible!
-
-
-*all laugh*
-
-
-T: Composing music is something I enjoy even now, but currently the thing I enjoy the most is jamming out with other musicians. 
+Composing is a lot of fun for me, but jamming out, especially with fellow musicians, is even more fun!
 
 
 12:13
 D: When did you start writing music? Do you remember some of the earliest pieces you composed?
 
 
-T: 
-I started writing music I believe when I was around 4 years old. I only started properly writing down my compositions when I was in middle school. 
+T: I wrote my very first melody during a piano lesson - I was probably about 4 years old. I started taking it seriously in middle school, when I was 11.
 
-
-The first piece that I remember arranging is the national anthem of the United States. I arranged it for brass and piano when I was around 12. 
-
+My very first arrangement was when I was 12; for some reason, I arranged the U.S. National Anthem for solo piano.
 
 *All hum the national anthem*
 *Laughs*
@@ -111,21 +98,9 @@ I performed the music of many composers up until that point, but found that I ha
 D: When did you decide that you wanted to make a career out of composing music? Did your musical education play a part in that step?
 
 
-T: 
-Well, I had been studying music by myself from when I was a kid. To be honest, I wanted to go to Moscow for high school. However, the situation wasn’t exactly ideal at the time [socially, politically], so I ended up staying in Japan.
+T: I think I may have been aware that I wanted to make this my career ever since I was in high school and thought about studying abroad in Moscow. However, given the social climate at the time, which wasn’t very favorable, I ended up attending an art university in Japan.
 
-
-As for how I got into composing music for video games, this was at a time where the personal computer was starting to become more widespread. I heard that it was possible to compose music on the PC, but had no experience with it so I had to learn how to use it from scratch. 
-
-J: 
-Where did first you learn how to use computers?
-
-
-T: 
-At my part time job during college, I noticed that there were more and more computers being introduced to the scene. Due to the fact that both computers and music are logical by nature, I felt that they would be quite compatible with each other. 
-
-
-That led to me having a "Eureka!" moment, and I began learning how to use the various chips needed to compose music. 
+This was around the same time that personal computers were starting to become adopted into the household, so I also became interested in creating music digitally. Due to the fact that both computers and music are logical by nature, I felt that they would be quite compatible with each other.
 
 
 20:12
@@ -133,24 +108,9 @@ D: How did you get started with composing for video games? What was the first ga
 
 
 T: 
-So in Japan there’s this magazine with listings for job offerings - you see it often in supermarkets and other stores.
+So in Japan there’s this magazine with listings for job offerings - you see it often in supermarkets and other stores. In that magazine, I saw a job listing looking for someone that could compose music for video games. I spent the next three days composing a few demos tracks and submitted them to the company.
 
-
-In that magazine, I saw a job offering looking for someone that could compose music for video games. I spent the next three days composing a few demos tracks and submitted them to the company. They must have liked it, since they told me to go directly to their company the following day. 
-
-
-21:45
-D: Do you remember what the company was?
-
-
-T: Yes - It was Jareco. 
-
-
-21:53
-D: Is that company still around today?
-
-
-T: It was actually bought out by another company. Their brand itself is still around though, to my knowledge. 
+To my surprise, I got a reply saying, “If you’re available, please come to the office starting tomorrow.”
 
 
 22:17
@@ -165,213 +125,122 @@ D: Do you remember what kind of gear you used to make the demo tape and what med
 
 
 T: 
-Hmm…
-I had a Roland sampler and a Yamaha DX7. In addition, I had a tape multi tracker, and used those to make the demo tracks. I included some of my own vocal recordings, and brought that to the company. 
+Sampler: Roland S-750, S-50
+FM Synth: Yamaha DX7
+Mixer/Recorder: AKAI MG1212 or MG1214
+Effects: DBX(comp), Ampex(exciter), etc.
 
-
-Oh, as for that tape multi tracker, I believe it was an AKAI.
-
-
-24:14
-Tsukasa continues about starting on the job…
-T: 
-One of the first projects I remember working on was for the NES. There were no other composers at the company at the time, and the computer was not the best - it would overheat during the summer and not be usable at all. 
-
-
-After being handed that at the company, I was told to “please make the music”. You can imagine the look on my face.
-
-
-I had no idea what was going on, and was constantly asking the programmer “what is this?” “what is that?”. And just like that, I went about learning the ropes, little by little.
+There may have been more but that's what I can remember now.
 
 
 25:44
 D: What was the first project that you were assigned to work on at your new job?
 
 
-T: Druid for the NES.
+T: The first game soundtrack I worked on was for a Famicom title called Druid.
 
-
-After the release of the game, the music was well received, and I ended up receiving more and more work.
+After that game was released, I received many complements from the staff praising the music - that led to me being commissioned for all of the company’s projects.
 
 
 27:10
 D: What was your experience like composing on that first project? Did you run into any challenges in the process?
 
 
-T: 
-It was anything but easy using the tech at the company.
+T: When I started at the company, I was more or less told to “please make the music”. You can imagine the look on my face (laughs). [pending approval]
 
+Since there were no other composers at the company, there was no one who could teach me about the development tools. At first, I had absolutely no idea how to make any sound, so I kept asking the programmers, “What is this?” and “How should I do this?” as I gradually learned how to program the Famicom to play music.
 
-The composing of the music itself however was not an issue. 
+I fondly remember how everyone would ooh and aah when I’d get the hardware to make a sound. 
 
-
-I fondly remember how everyone would go “woah!” and “oh!” when I’d make a sound on the computer. 
-
-
-To this day, I have not really had specific instructions as for how to write music for the games I work on, but rather have been given creative freedom. In general, without any redos. 
+Composing was easy, but creating the data was a real challenge!
 
 
 29:07
 D: Can you walk us through the process of composing and implementing a piece of music into a game made for the Famicom?
 
 
-T: 
-Sure. The first step is to have a final image in mind of the music I will be composing. This includes considering the limitations in number of audio channels available for the system you’re composing for. 
+T: First, I visualize the music I’m about to create all the way through to its final form.
 
+Then, I establish an arrangement strategy tailored to the characteristics and limitations of the hardware that I'm working with. For example, “How can I express this using the Famicom’s 4-voice PSG or the Super Famicom’s 8-voice system?” During this stage, I also sketch out the sheet music.
 
-It is of utmost importance to have that image in your head at the start of the project. Once that’s in mind you can get down to programming MIDI. 
+That initial phase of establishing that musical vision is crucial. Only once that's solidified can you move on the programming phase, which involves inputting the performance data using a computer or similar tool. Tempo, phrasing, and articulation - that data all needs to be carefully specified for every note.
 
-
-In my case, I do everything from start to finish, including the implementation itself. 
-
-
-30:33
-J: 
-Who taught you how to do that?
-
-
-T: 
-There was nobody at my company that knew how to do that, so I went about picking it up little by little. 
+In my case, I did everything from start to finish, including the implementation itself.
 
 
 32:06
-D: Did you have to learn how to program to implement the music into the game?
+D: What kind of technical knowledge did you need to acquire in order to implement the music into the game?
 
 
-T: 
-I learned some programming to be able to communicated with the programmer and sound team. I ended up learning quite a bit.
+T: In order to communicate effectively with planners and programmers, I needed to understand hardware design and have some programming knowledge, so I studied those topics.
+
+It’s also thanks to this knowledge that I’m able to identify and verify the causes of sound-related bugs that occasionally occur.
 
 
-33:05
-D: In the early days you had to deal with strict hardware limitations. Do you remember how many audio tracks you had at your disposal on the Famicom?
+33:05/35:25
+D: In the early days you had to deal with strict hardware limitations - you've already talked about how those limitations influenced your arrangements. Over time, hardware limitations gradually became less restrictive as hardware became more powerful. Nowadays there’s almost no restrictions limiting the quality of audio in games. How has this softening of limitations over the years affected your workflow?
 
 
-T: 
-There were 4 on the NES, and 8 on the SNES.
+T: I’ve been in the game for a long time so I've always been accustomed to dealing with limitations. As a result, I’ve never felt that limits like four or eight voices had a negative impact on the creative side of things.
 
+There’s a unique world you can create with just four voices, and another you can create with just eight.
 
-33:28
-D: How did this limitation impact your compositions? Did you have to adapt what you had in your mind to work with 4 (or 8) tracks?
-
-
-T: 
-I would have to have my final image for the track made with those limitations in mind.
-
-
-You know how in classical music you have string quartets? When writing for the NES, I would compose in a similar manner, having tracks 1, 2, 3, and 4 in mind akin to a quartet. 
-
-
-I would also think about what a piece like that would sound like were we not limited by the technology at the time. That includes imagining what it would sound like when arranged for full orchestra.
-
-
-34:36
-J: That makes sense. So if a piece for the NES is akin to a string quartet, how would you describe your way of thinking about a piece for the SNES?
-
-
-T: 
-Nice catch. When it came to the SNES, I would imagine it not as a quartet, but rather as a piece for 8 different orchestral parts. 
-
-
-35:25
-D: Over time, hardware limitations gradually became less restrictive; nowadays there’s almost no restrictions limiting the quality of audio in games. How has this softening of limitations over the years affected your workflow?
-
-
-T: 
-I feel like things have become less interesting with the lack of limitations. 
-There were fun things that could be done with a limit of 4 tracks, just as there were fun things that could be done with a limitation of 8. Without that though, I feel as if things have changed. 
-
-For example, with the arrival of the GameCube and the Wii, there were suddenly so many more possibilities in the world of game music. You could even throw in a whole orchestra if you wanted to. 
-
-As a result though, the need for a specific skillset for composing for games was lost. This is where I feel things became less interesting. 
-
-Speaking of limitations, think back to earlier, when we were up in the studio. Do you remember how I had to shuffle through various presets on the synthesizer to find patches that might work? It’s almost counterintuitive in a way, but the lack of limitations and endless sound possibilities can lead to wasting time trying to find the quote on quote perfect sound. With a limitation such as only being able to use a specific sound in play, we would have been able to get to recording right away. 
-
-If you have that kind of time, I would much rather spend it playing with everyone. 
-
-
-J:
-I can relate - scrolling through patches in Kontakt can take up so much time. So to summarize, you view limitations as more of a positive factor than a negative one?
-
-
-T:
-Think of it this way: imagine an orchestral ensemble with only 8 members. With the limitation of 8 players in mind, you can work to create the best piece possible around those limitations. However, when there are unlimited possibilities, it’s possible to get lost and not know what to do.
+In fact, I really enjoyed creating music tailored to the hardware. On the contrary, if the limits were removed and we could do anything without restriction, it might actually become less interesting.
 
 
 42:40
 D: What was the popular music scene like when you started composing professionally?
 
 
-T: 
-There was a lot of popular European, American, and Japanese pop music at the time. They were all quite different sonically however.
+T: All over the world, various genres of music such as rock, pop, jazz, new age, and more were thriving, and all of them were brilliant in their own way!
 
-
-Do you know Bon Jovi? I really like his music. 
-
+Do you know Bon Jovi? I was really fond of his music. [pending approval]
 
 *Jonathan breaks into "Living on a Prayer" - everyone joins in.*
 
-
-I’m quite a bit older than you two though. I’m 60 so I must have at least 20, 30ish years on you guys? 
-
-
-That’s one of the great things about music - you can make friends with people regardgless of age. 
+See? Music is great, isn’t it? It brings people together as fellow music lovers, regardless of age.
 
 
 45:15
 D: Did the popular music at the time have an influence on your compositions at all?
 
 
-T: 
-Not really. I have always a had a specific kind of music that I wanted to make in mind. However, one things that might have been influenced by the music around me was my ideal snare drum sound. However, I wasn’t really listening to that much music then, and was more focused on composing my own.                
+T: I haven’t been that influenced by it in terms of technical composition, but when it comes to recording techniques and sound design, I was able to experience all kinds of great sounds, and I have a lot of respect for the pioneers who designed those sounds!
+
+I believe that many of the classic, timeless sounds that are still imitated today were invented back then. Of course, since I grew up in a different era than everyone else, my perspective might be a little different.
 
 
 46:28
-D: Before you worked on pokemon (we'll get to that later): what were some key games that marked a big step up in your development as a composer, and what was it about those games that leveled up your skills?
+D: Before you worked on Pokemon (we'll get to that later): what were some key games that marked a big step up in your development as a composer, and what was it about those games that leveled up your skills?
 
 
-T: 
-Let’s look into those. I feel like every 10 years in my career, there has been a big project that has marked my step up as a composer. 
+T: My first big breakthrough was in arcade game music. I composed the music for three titles: Plus Alpha, Rod Land, and E.D.F. using the FM sound source chip built into the arcade game boards.
+The music, played with the 8-voice FM sound source, was a huge hit both within the company and with users, leading to a series of CD releases. That marked the first big step up in my career as a composer.
+
+The next step up would have to be Ihatovo Monogatari.
+
+On that note, now would be a good time to give you these...
+
+*hands out Ihatovo Monogatari CDs*
+
+I’ve already signed them, haha.
 
 
-The first of such projects was composing for arcade games early on in my career. I was limited to 8 FM audio tracks. I composed for 3 different games like that, and even released a CD. That marks the first big step up in my career as a composer. 
+D, J: Wow, thanks a lot!
 
 
-The next step after that, would have to be this - 
+For this game, I made the most of the Super Famicom’s 8-voice sound system to create music featuring emotional melodies played on acoustic instruments.
 
-
-*passes Ihatovo Monogatari CDs*
-
-
-I have signed them for you.
-
-(insert picture here)
-
-
-48:55
-T: 
-This one goes back around 35 years now, on the SNES. The music was really well received, and I was even noticed by the late Dragon Quest composer, the great Koichi Sugiyama. Sugiyama invited me to work together with him as a composer. That, without a doubt, marked the second big step. 
-
-
-After that, during my time working together alongside Sugiyama, we received an offer to create a new company to make work on a different kind of Pokemon game. Together with skilled members from the cast developing Dragon Quest, we took up this offer, and made a new company. While working as an executive on the board, I was in charge of the music, and we made Pokemon Colosseum and XD. 
-
-
-That marked the next big step up in my career. Let’s leave this story here for now though.
+That music was so well-received that Koichi Sugiyama, the composer for Dragon Quest, happened to hear it live at the Tokyo Game Show and invited me to work together on Dragon Quest - it was a pivotal title for me.
 
 
 51:20
-D: What do you think it was about the soundtrack to Ihatovo Monogatari that caught the attention of the Dragon Quest composer (Koichi Sugiyama?)?
+D: What do you think it was about the soundtrack to Ihatovo Monogatari that caught the attention of Sugiyama?
 
 
-T: 
-I’d say it’d have to be the sound. I built up all of those sounds from scratch. That, and the compositional choices perhaps. It seems that the acoustic instrumental style was quite well received, and that Koichi Sugiyama reached out to me to compose orchestral music together as a result.           
+T: Drawing on my experience as a pianist, I put extra care into packing as much musical expression as I could into the score, but also doing so in a way that ensured that expressive nuance wasn't lost by the Super Famicom's limited sound system. As such, I carefully crafted the instrument sounds so that they could stand up to that level of expressive performance.
 
-
-52:26
-D: Did you receive mentoring during your career? If so, is there someone who stands out to you?
-
-
-T: 
-I did not receive any mentoring during my career. I was quite lucky to have been trusted by my colleagues and coworkers, and have been allowed to compose freely for the entirety of my career.
+I think that element of expressiveness is what came across.
 
 
 53:40
