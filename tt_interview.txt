@@ -247,207 +247,82 @@ I think that element of expressiveness is what came across.
 D: Let’s switch gears to Pokemon: Genius Sonority was founded to develop Pokemon Colosseum as their first project - can you explain the background behind the studio's formation and how a relatively small team of developers got the opportunity to work on such a popular franchise?
 
 
-T: えーっと、まず、ドラゴンクエスト「作っていて、で、その時に任天堂、あとポケモンカンパニー新しい会社を作らない？て聞かれて
-
-
-僕電話かかって、ドラゴンクエストできませんって断って、で新しい会社のスターティングメンバーは5人。で、それは今まで仕事してきた人を集めて、で後は募集をかけて、で最終的には多分80人にはなったかな。
-
-
-たくさんの人が来てくれて、それでポケモンコロシアムを作ることができました。
-
-
-This goes back to when I was working on Dragon Quest. Nintendo and The Pokemon Company reached out asking if we’d be interested in making a new company. 
+T: This goes back to when I was working on Dragon Quest. Nintendo and The Pokemon Company reached out asking if we’d be interested in making a new company. 
 
 
 Interested in their offer, I took them up on it and started off with 4 colleagues I had worked together with. After recruiting, we ended up with a team of around 80 or so, and development on Pokemon Colosseum finally began.
 
+--- [needs revising]
 
-56:38
-D: What was the catalyst that sparked the formation of Genius Sonority?
-
-
-T: ポケモンが新しいゲーム、ポケモンのニュータイプを作りたいってなって。で、ドラゴンクエストのチームはすごい技術力あったので、半分出資して、会社を作った。それがきっかけになった。
-
-
-The team at Pokemon was interested in making a new kind of Pokemon game, and they respected the skills of the team at Dragon Quest. Both Pokemon and our side put down half of the initial capital each and formed Genius Sonority.
-
-
-57:45
-D: So it was a direction from the Pokemon Company to make a new team?
-
-
-T: そうですね。作ってみない？て話になって。どうしようどうしよう？？てなったけど、最終的にはやることになって。
-
-
-Yes. I was unsure at first whether to go through with it, but in the end, we did.
-
-
-58:20
-J: So you were a bit hesitant?
-
-
-T: Yes, as until then I had been working at Dragon Quest.
-
-
-J: 
-That makes sense. Dragon Quest has been loved in Japan for a long time. While it is popular in the US now, it was not something I knew about growing up as a gamer. Pokemon, however, had been quite popular around the world at that time. 
-
-
-T: 
-That’s correct. Dragon Quest is super popular in Japan - almost like a national game. That’s why I was initially unsure about what to do. 
-
-
-Pokemon, on the other hand, has always been more global. 
-
-
-59:28
-D: How familiar were you with the Pokemon series of games at the time?
-
-
-T: 
-I knew the names of some of the popular characters, but admittedly was not super familiar with it at the time.
-
-
-1:00:02
-D: Were you familiar at all with the music from the main series games?
-
-
-T:
-I had listened to samples of music from the main line games. However, the game that we were working on was inspired by Arizona, so I knew that the music I would compose would have to be in a completely different direction.
+T: At first, the founding team of the new company consisted of five people.
+With those five as the core, I had to build a strong development team, so I reached out to as many people as possible, asking, “Would you like to come build a game with us?”
+Miraculously, some wonderful colleagues I’d worked with in the past joined this new company. I trusted them, and they, in turn, saw the potential for the future in this new company.
+Thanks to the combined efforts of my colleagues and our partner companies, we were able to bring *Pokémon Colosseum* to the world.
 
 
 1:01:12
 D: Pokemon Colosseum is very different from the rest of the mainline games, most notably because of its darker tone. Where did the decision to give the game a darker tone come from?
 
 
-T: 
-The team behind planning wanted to go for a game with a cooler kind of vibe to it. Something like
-
+T: Our team, along with affiliated stakeholders, were all in agreement to experiment with different directions for this upcoming title. In response to that, the game planner proposed a cool, slightly more mature world. Something like...
 
 *begins snapping fingers to the tune of Pyrite Town*
 
-
-That’s why the music ended up like this - with a bit more of a mature feeling to it. It’s all part of the world building.
+That’s how that theme, and by extension the rest of the soundtrack's edge, came about.
 
 
 1:02:50
 D: What kind of direction were you given specifically for the music; how did you take that direction and turn it into musical ideas?
 
 
-T: 
-As I mentioned before, I’ve been given a lot of creative freedom throughout my career as a composer. I was afraid I might have taken things a little too far while working on the demos for this one though.
+T: In the early stages of development, we held numerous meetings about things like world-building to ensure everyone was on the same page.
 
+After that, the planners, directors, and producers all left the music entirely up to me. As an example, I went ahead with creating a demo for "The Under" exactly as I envisioned it, but I had concerns that the atmosphere and character of the music might be a bit too strong and that the staff might reject it. The result was actually the exact opposite, haha.
 
-J: What were you worried about?
-
-
-T: For one, the tone of pieces like The Under. I was afraid I might have made it a bit too dark. 
-
-
-But after having the team listen to some of the tracks that I was working on and hearing their feedback, I knew it would be ok.
+That made me think, “If everyone understands what I’m trying to do, then I guess it’s okay for me to keep making the music freely in my own style from here on out!”
 
 
 1:04:25
 D: What kind of material were you working with when it came to composing the music (e.g. concept art, videos, notes, etc.)?
 
 
-T: ほとんどはミーティングの席で、話で「こんな感じ」例えば「アリゾナの乾いた砂って感じがいいよね」とか。で、話してるうちにイメージが湧いて。だから後になってイラストが出てきて「合った！」てなった笑
-
-
-This is one of the things that we discussed at meetings. Even before the art was ready, the team would give ideas like “dry sand in Arizona”, and other abstract ideas. After seeing the illustration finished and paired with my music, I was relieved to see that it fit the bill (laughs)
+T: Most of it came across during our meetings. Even before the art was ready, the team would come up with phrases like “dry sand in Arizona”, and other abstract ideas. Just hearing those was enough to paint a clear picture in my mind. After seeing the illustration finished and paired with my music, I was relieved to see that it fit the bill (laughs).
 
 
 1:05:53
 D: Do you remember what the first song you composed for Pokemon Colosseum was?
 
 
-T: 
-Hmm…
-What was it again
-
-
-*Humming*
-
-
-Harmonica?
-
+T: What was it again... Maybe the music from that gas station on the outskirts of town? The harmonica solo!
 
 *Hums melody to "Outskirt Stand"*
-
-
-Yeah it was definitely this harmonica piece.
 
 
 1:06:52
 D: One of the unique features of Colosseum's soundtrack is its use of motifs; in many tracks you can hear common little melodies that are shared across other tracks in one way or another, and that concept ties the whole soundtrack together. How did you come up with the idea of incorporating motifs into the soundtrack? Was it a conscious decision or something that naturally arose as you wrote more songs?
 
 
-T: 
-The idea of leitmotifs is something I learned about through classical music. For example, Bach is known for using themes and ideas in multiple parts throughout his music. That’s a common technique used in classical music, and I decided to use it to give the soundtrack a sense of unity. 
+T: The technique of developing a motif in various ways has been around for a long time. I know firsthand just how effective it can be, so I’d always wanted to put it into practice in a large-scale RPG project someday.
 
+By explicitly or implicitly developing a single, memorable motif across various scenes, you can unify the game’s world and convey special messages or meanings.
 
-1:08:53
-J: Wow. That’s something that previous Pokemon games did not incorporate, so I found it impactful the first time I played Colosseum. 
-
-
-T: In the case that multiple composers are working on soundtracks for different games, it’s not exactly something plausible. However, since it was just me working on the soundtrack, implementing it was no problem.
+Additionally, the fact that I was composing the soundtrack all by myself made it possible to execute the idea with the required degree of precision.
 
 
 1:09:32
 D: Let’s say you’re starting the process of writing a piece of music for a new area in the game, and you want to incorporate a motif into it. Do you start with the motif and build the song around it, or do you start with a separate idea and incorporate the motif into it?
 
 
-T: It depends on the context, but both are valid approaches - personally, I can compose a piece either way.
-
-
-1:10:38
-D: Pokemon Colosseum's soundtrack includes a few songs from previous Pokemon games (e.g. Pokemon Center, and a battle theme from RSE). What was your experience like arranging these tracks? Did you collaborate at all with the sound team from Game Freak?
-
-
-T: 
-It was important to make sure that they fit in with the world of Colosseum. Game Freak shared the sheet music with me, and I used that as a base for my arrangements in the style of Colosseums (Orre?). 
-
-
-1:11:45
-J: What was it like arranging (previously existing) Pokemon music?
-
-
-T: 
-I arranged them in a simple style, as there was already a mold to fill. In that sense, I did not take too much freedom with the arrangements. 
-
-
-1:13:03
-D: Where did the direction to use songs from RSE come from? The Pokemon Company or Genius Sonority?
-
-
-T: 
-That’s a good question. 
-Take something like level up jingle, or the pokemon center theme - those are essentially symbols of Pokemon games, are they not?
-
-
-I think it was our planner that decided to do so. By including those familiar jingles and sounds, people from all over the world would feel a sense of connectedness to that of Pokemon.
-
-
-J: Tell me about the arrangement of the Ruby Sapphire battle theme. 
-
-
-T: 
-Since the Ruby and Sapphire included connectivity to the GameCube and Colosseum, we decided to do an arrangement of the Ruby and Sapphire battle themes.
+T: Both are valid approaches. I can freely transform motifs, and if a single motif isn’t enough, I can create new ones. Anything is possible!
 
 
 1:15:43
 D: Did you experience any push-back on any of your musical ideas? Did any tracks end up getting re-worked or shelved?
 
 
-T: Not at all. Never.
+T: Not at all.
 
-
-1:16:44
-J: I got the feeling you’d say that (laughs) 
-
-
-T: 
-Of course there are arrangements that I go back an brush up. However, it’s never really more than a touch up here and there. For the most part, my first presentations are generally well received.
+As an aside, there was one time when the sound engine glitched and the music played strangely, and someone asked me, “Mr. Tawada, is this music okay?” (laughs) I told them, “Once the bug is fixed, you'll be able to hear some really cool music.”
 
 
 1:17:10
@@ -475,80 +350,75 @@ There were three executive officers in the company - myself included. On top of 
 
 Both the executive side of things and the composing side demanded my time, and there was always blood in my eyes from how busy I was (joking)
 
+---
+
+T: I guess the hardest part was interviewing job candidates and deciding employee salaries (laughs).
+
+I’m joking, of course, but running the company while making music at the same time was really tough. Music production itself is always fun, and I’ve never found it difficult, but I think not always being able to carve out the needed time for that task did lead to some stress.
+
+Pokémon Colosseum uses the GameCube’s built-in sound chip to play music, and I spent a lot of time carefully crafting the individual instrument samples that the soundtrack is built on. It’s important to create sounds that are both versatile and expressive, so I worked on the waveform data with great attention to detail.
+
+I was also really happy that I was able to apply the sound design skills I’d developed on Ihatovo Monogatari and the Dragon Quest series to this project!
+
 
 1:20:09
 D: Overall, what was the development of Pokemon Colosseum like? Did the team run into any major challenges in the development cycle?
 
 
-T: 
-As the team was filled with veterans in the field, I had no doubt that the game would turn out in high quality. 
+T: As the team was filled with veterans from the field, I had complete confidence that the quality level of the final game would be high.
 
+There was one particular incident that stands out, however: around a week before release, the guitar tracks ended up glitching out - it was getting worse over time, and the whole thing eventually sounded like a big mess, so naturally I grew a bit panicked.
 
-There was one particular incident that stands out, however: around a week before the deadline, the guitar tracks ended up glitching out - it was getting worse over time, and the whole thing eventually sounded like a big mess, so naturally I panicked a bit.
-
-
-I came to the conclusion that there must have been a memory leak somewhere in the game, so I had the programming team look into it. Upon closer inspection, they were able to discover the memory leak and fix it in three days - just mere days before the final release deadline.
+I came to the conclusion that there must have been a memory leak somewhere in the game, so I had the programming team look into it. Upon closer inspection, that turned out to be exactly what it was. Within three days, the leak was fixed - just mere days before the final release deadline.
 
 
 1:22:40
 D: Wow... So was all the music that we hear in the game being mixed down and rendered in real-time by the Game Cube?
 
 
-T: That’s correct. I performed it all on my keyboard using samples. 
+T: That's right. I prepared the audio assets and related data - the instrument waveforms, the performance data, and the mixing process - and the GameCube plays just like a real musician!
 
 
 1:24:50
 D: Were the musical instructions written in MIDI or some other format? How much was programmed in and how much was performed by you?
 
 
-T: That’s right, standard midi file -  SMF. 
-
-
-Most of the parts were sequenced, but some parts, such as the dissonant bits in The Under, I played myself.
+T: Basically, the MIDI data comes from me playing the keyboard or programming. After that, it’s converted into the GameCube’s proprietary data format and loaded onto the console itself.
+Most of the tracks are created by me actually playing the parts on an instrument with MIDI output.
 
 
 1:27:08
 D: You've taken the opportunity to re-arrange/re-record some of your older work: most recently for Ihatovo Monogatari’s 30th anniversary, the soundtrack was arranged for, and performed by a live orchestra. What was it like re-visiting these pieces after so many years?
 
 
-T: 
-Even 35 years ago, I had the final versions of the tracks in mind. It might have taken 30 years, but I was finally able to complete them. During that time, I was busy composing for other projects, but I knew that I had to do something for the Ihatovo fans for the 30th anniversary. This year, I completed the orchestral versions and released a CD. 
+T: It’s wonderful that music is something you can enjoy for decades, isn’t it?
+
+Often times, a few years after I compose a piece, I find myself wanting to re-visit my own music more objectively; I may start wanting to enjoy the pieces I’ve composed as a performer as well.
+
+Back when I first composed Ihatovo Monogatari's soundtrack, I already had a clear vision for piano and orchestral versions in my mind. There was no rush, but the desire to bring them to life someday persisted for decades. During that time, I was busy composing for other projects, but as the 30th anniversary of the games approached, my desire to give my fans a gift grew stronger, so I decided to move forward with producing the orchestral version I’d been envisioning for so long.
+
+This year, I completed the orchestral versions and released a CD. I think the fans were happy with both the new recordings and the orchestral concert. I was happy myself, and it feels like I’ve reached a milestone.
 
 
 1:29:10
 J: It must have felt great being able to bring to life the finished versions you had in mind 35 years ago. 
 
 
-T: Yes! It feels as is a weight has been lifted off of my shoulders. 
+T: Yes! It feels as is a weight has been lifted off of my shoulders - I feel so much lighter! 
 
-
-Actually, I want to do something similar with music from Pokemon Colosseum, XD, and Batte Revolution. While I’m not sure how long it will take, it’s something that I want to do. 
-
-
-You can get a pretty good idea of what direction I want to take the tracks in just from listening to the soundtrack, and I want to take them to the next level.
+Actually, I want to do something similar with music from Pokemon Colosseum, XD, and Batte Revolution. While I’m not sure how long it will take, it’s something that I want to do.
 
 
 1:30:36
 D: Was the live orchestra version for Ihatovo Monogatari closer to what you had in your mind when you originally composed the tracks compared to how they sound in the game?
 
 
-T: Yep. NES, SNES, they both have what I consider their “finished” version of the music. However, the orchestral version is what I consider the “complete” version when viewing it from a musical standpoint.          
+T: Yes. The music of Ihatovo Monogatari will always have its "finished" version, which what you hear from the game in its original form. The live performance, however, contains what I consider to truly be the "definitive" versions of the tracks, from a musical standpoint.
+
+The same can be said about Pokémon Colosseum, XD, and Battle Revolution as well - a (future) live version of their music may very well be their definitive forms. Since I got to play some of my tunes with Daniel and Jonathan today, we might have gotten those a little closer to their definitive forms!
 
 
-I felt the same way about recording with you Daniel, and Jonathan today in the studio.
-
-
-1:32:10
-D: Reflecting back on your career, can you name a game or two that you most enjoyed composing for?
-
-
-T: Pokemon Colosseum and the games I worked on at Genius Sonority.
-
-
-I’m enjoying working on the music for a Pokemon mobile game right now. The musical style is completely different, but that’s part of the fun.
-
-
-D: I feel the same - there’s something about the music from Pokemon Colosseum/XD that strikes a chord like no other game quite does.
+D: It's been an honor and a privilege, thank you!
 
 
 T: It’s such a pleasure seeing everyone’s renditions of my music, and I’m grateful to everyone that does. It makes me feel happy that I composed the music, and I want to perform together with such talented musicians. 
@@ -558,48 +428,44 @@ T: It’s such a pleasure seeing everyone’s renditions of my music, and I’m 
 D: What kind of music are you listening to these days in your free time?
 
 
-T: I don’t really listen to music. I’m more focused on the composing aspect.
+T: I listened to a lot of music when I was a kid, but since starting my career, I’ve had very relatively few opportunities to listen to music. I feel like I create a lot of music, but I don’t take in as much as I used to.
 
 
 1:37:57
-D: Why do you think that is? Is it a time thing - that your own music is perhaps using up all of your mental capacity for music?
+D: Why do you think that is? Is it a time thing, or perhaps that your own music is using up all of your mental capacity for music?
 
 
-T: 
-There are always music ideas floating around in my head - even when going for a walk. I’d rather spend my time fleshing those out into full songs rather than listening to existing ones. 
+T: Rather than wanting to listen to music, I have an overwhelmingly stronger desire to give shape to the music in my head. Even when I’m just walking outside, there are always musical ideas floating around in my head, so I guess I just want to pull those out as soon as possible and share them with everyone.
 
 
 1:45:08
 D: Can you tell us anything about your future plans for music?
 
 
-T: That’s a secret.
+T: One thing is that I’ve gathered up my old equipment from when I was working on Pokémon Colosseum to create a battle music album!
 
+For context, back when I was working on Colosseum, I wanted to compose even more battle music for the game, but I didn't get the chance to create nearly as many such tracks as I would have liked to. That's why I decided to do this album - as a way to scratch that itch.
 
-However, I have been collecting the old equipment that I used when working on the Pokemon Colosseum soundtrack, and have been using it to compose new battle themes. They are not for a game, however.
-
-
-I actually wanted to compose more battle themes for Colosseum, so this album is my way of scratching that itch. As it is the same equipment, the music will sound just like that of Pokemon Colosseum. 
+Fans who enjoy my battle music should be able to feel the same vibe in these tracks that they're familiar with. I'm looking forward to having everyone hear it!
 
 
 1:47:18
 D: Is using the same sounds from Pokemon Colosseum/XD a deliberate choice as opposed to producing it with more modern equipment, or with live musicians?
 
 
-T: 
-It was a deliberate choice, but to be honest, regardless of the equipment I use, as well as regardless of whether parts are performed live or programmed, it would undoubtedly still have the "Tawada" sound and be easily recognizable as mine.
+T: Since my fans are so familiar with the sound I create, if I make music using the gear from those classic titles that I'm known for, they’ll immediately recognize it as “Tawada’s music.”
 
 
 1:48:16
 D: That just goes to show how much Pokemon Colosseum/XD has solidified the “Tawada” sound and the association between you and those games.
 
-
-1:52:15
-D: Final question: if you were to give some advice to aspiring composers today, what would it be?
+Final question: if you were to give some advice to aspiring composers today, what would it be?
 
 
-T: 
-The most important thing is to keep an open mind. 
+T: I think the most important thing is to keep your mind open and free at all times.
 
+As you grow older, there are more and more things in your life you need to think about and attend to that introduce mental constraints; when that happens, your mind gradually loses its freedom, and along with that, the “antenna” responsible for sending and receiving these invisible "signals" all around us begins to lose its sensitivity.
 
-You know, as you get older and become adults, your day to day is filled with things that you need to do, and you slowly begin losing that freedom. It’s important not to fall in to that trap, and to keep your mind free.
+That’s why it’s important to keep your mind free, even though it’s not easy - sometimes you have to fight little battles in your daily life to keep that freedom in check.
+
+Making the battle album is a personal exercise of this idea, made for people like you to enjoy!
